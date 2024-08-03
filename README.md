@@ -19,7 +19,7 @@ I create folowing visualizations.
 **Gauge** - This vizualization scale 0-10 one gauge shows happines with work/life balance and second one shows happines with salary.  
 **Donut Chart** - This vizualization show how employees perceived difficulty starting carriers in their fields.  
 
-You can go to branch [PowerBI_Professional_Survey](https://github.com/Bajlando-py/Data-Analysis-Power-BI-Projects/tree/PowerBI_Professional_Survey) and open the folder *pbip_files* where all pbip files are located. Or you can con straigt [here](https://github.com/Bajlando-py/Data-Analysis-Power-BI-Projects/blob/PowerBI_Professional_Survey/PowerBI_Professional_survey_project_pbix_file/PowerBI_Professional_Survey_Project.pbix) to download pbix file to you computer and open it in your Power BI Desktop.  
+You can go to branch [PowerBI_Professional_Survey](https://github.com/Bajlando-py/Data-Analysis-Power-BI-Projects/tree/PowerBI_Professional_Survey) and open the folder *pbip_files* where all pbip files are located. Or you can go straigt [here](https://github.com/Bajlando-py/Data-Analysis-Power-BI-Projects/blob/PowerBI_Professional_Survey/PowerBI_Professional_survey_project_pbix_file/PowerBI_Professional_Survey_Project.pbix) to download pbix file to you computer and open it in your Power BI Desktop.  
 
 ## Project 2
 At the moment I'm studiing this comprehensive course un Udemy [PL-300 certification: Microsoft Power BI Data Analyst](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/). This second, more complex project will be done after passing this course.
